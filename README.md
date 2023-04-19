@@ -2,7 +2,7 @@
 
 # Get all contacts (console.table): node index.js --action list
 
-!https://ibb.co/7J2zw6W
+![Creating repo from a template step 1](https://ibb.co/7J2zw6W)
 
 # Get contact by id: node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
 
